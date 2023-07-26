@@ -27,7 +27,7 @@ const Hero = () => {
           and I am Fullstack Developer</p>
         </div>
       </div>
-      <ComputersCanvas />
+      <ComputersCanvas /> 
     </section>
   )
 }
